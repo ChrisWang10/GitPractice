@@ -58,6 +58,6 @@ int main(){
 	}
 	cap.release();
 	std::cout<<"finish..."<<std::endl;
-	// add
+	// add by menber 1
 }
 
