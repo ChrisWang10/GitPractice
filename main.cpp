@@ -2,7 +2,7 @@
 #include <opencv2/opencv.hpp>
 #include <opencv2/imgproc/types_c.h>
 #include <unistd.h>
-#include <pthread.h>
+//#include <pthread.h>
 #include <sys/time.h>
 #include <iconv.h>
 #include <sstream>
