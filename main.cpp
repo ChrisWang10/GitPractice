@@ -29,6 +29,8 @@ int main(){
 	Mat src;
 	string gsurl = "v4l2src ! video/x-raw, framerate=5/1, width=1280, height=720, format=RGB ! videoconvert ! appsink";
 	
+	//menmber two daytwo modify
+	
 	//sprintf(image_name, "%s%d%s", "image", ++i, ".jpg");
 	//VideoCapture cap = VideoCapture(gsurl,cv::CAP_GSTREAMER);
 	VideoCapture cap = VideoCapture(0);
@@ -62,5 +64,6 @@ int main(){
 	// add by member 2
 
 	// add some test by member 1
+	// member two day2 work
 }
 
